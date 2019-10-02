@@ -30,10 +30,8 @@ function main() {
   console.log(arr.get(0))
 
   while(arr.length>0){
-    console.log(arr.length)
     arr.pop()
   }
-
 
   arr.push('tauhida')
   console.log(arr.get(0))
